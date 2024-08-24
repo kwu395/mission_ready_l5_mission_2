@@ -11,4 +11,4 @@ Technologies used include:
 
 # Images 📷
 
-![Webpage Image](https://media.discordapp.net/attachments/822322613816262660/1228588637143306261/image.png?ex=662c9755&is=661a2255&hm=57578fdb9184db799051227a8447159701a39f3ba7b3544a5cc5854893f88851&=&format=webp&quality=lossless)
+![AiVision](./aivision.png)
